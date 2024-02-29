@@ -3,44 +3,44 @@
 ## Tech Stack
 DoctorMorDi/langchainjs is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Python](https://www.python.org) – Languages
+- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [YAML](http://www.yaml.org/) – Languages
+- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
-- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [TypeORM](https://typeorm.io/) – Microframeworks (Backend)
+- [DB](https://github.com/infostreams/db) – Database Tools
+- [GraphQL](http://graphql.org/) – Query Languages
 - [MongoDB](http://www.mongodb.com/) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 - [Redis](http://redis.io/) – In-Memory Databases
 - [SQLite](http://www.sqlite.org/) – Databases
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [YAML](http://www.yaml.org/) – Languages
-- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [Docker Compose](https://github.com/docker/compose) – Container Tools
 - [ESLint](http://eslint.org/) – Code Review
-- [GraphQL](http://graphql.org/) – Query Languages
+- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Playwright](https://github.com/microsoft/playwright) – Browser Testing
+- [Prettier](https://prettier.io/) – Code Review
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Replicate](https://replicate.com/) – Machine Learning as a Service
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [OpenAI](https://openai.com/) – Large Language Models
+- [Pinecone](https://www.pinecone.io/) – Search as a Service
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [Prettier](https://prettier.io/) – Code Review
-- [TypeORM](https://typeorm.io/) – Microframeworks (Backend)
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
-- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 - [TensorFlow.js](https://js.tensorflow.org/) – Machine Learning Tools
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [DB](https://github.com/infostreams/db) – Database Tools
-- [Playwright](https://github.com/microsoft/playwright) – Browser Testing
-- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- [Replicate](https://replicate.com/) – Machine Learning as a Service
-- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
-- [Pinecone](https://www.pinecone.io/) – Search as a Service
-- [OpenAI](https://openai.com/) – Large Language Models
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -50,44 +50,44 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 DoctorMorDi/langchainjs is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1744/yaml.png' alt='YAML'/> [YAML](http://www.yaml.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/7419/20165699.png' alt='TypeORM'/> [TypeORM](https://typeorm.io/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1744/yaml.png' alt='YAML'/> [YAML](http://www.yaml.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png' alt='Playwright'/> [Playwright](https://github.com/microsoft/playwright) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/21709/default_e8df7b9f7533c3ea041cf8ded59b2c12e7466b67.jpg' alt='Replicate'/> [Replicate](https://replicate.com/) – Machine Learning as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7419/20165699.png' alt='TypeORM'/> [TypeORM](https://typeorm.io/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/8762/q8sc1KuZ_400x400.jpg' alt='TensorFlow.js'/> [TensorFlow.js](https://js.tensorflow.org/) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png' alt='Playwright'/> [Playwright](https://github.com/microsoft/playwright) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/21709/default_e8df7b9f7533c3ea041cf8ded59b2c12e7466b67.jpg' alt='Replicate'/> [Replicate](https://replicate.com/) – Machine Learning as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -98,7 +98,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DoctorMorDi/langchainjs](https://github.com/DoctorMorDi/langchainjs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|92<br/>Tools used|02/03/24 <br/>Report generated|
+|92<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
